@@ -19,8 +19,11 @@ This project counts the number of visitors entering and exiting a room using an 
 - Automatic_Visitor_Counter.ino
 - circuit_diagram.png
 - project_photo.jpg
+  
+##contributors
+- Ishwarya R
+- Nadhiya S
+- Anandhi D
+- Madhumitha M
 
-## Author
-Ishwarya R
-
-> Academic group project.
+This project was developed as part of a group academic project.
